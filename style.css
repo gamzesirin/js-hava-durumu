@@ -13,7 +13,8 @@ body{
     align-items: center;
     min-height: 100vh;
     background-image: url('bg.jpeg');
-    background-repeat:round;
+    background-repeat:none;
+    background-size: cover;
 }
 
 .wrapper{
